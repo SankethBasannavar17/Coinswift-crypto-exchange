@@ -1,0 +1,5 @@
+{
+  "name": "CoinSwift Crypto Exchange",
+  "description": "A modern, dark-themed cryptocurrency exchange frontend featuring real-time market data, portfolio tracking, and instant trade simulation.",
+  "requestFramePermissions": []
+}
